@@ -28,6 +28,9 @@ gem "stimulus-rails"
 
 gem "ruby-openai"
 
+gem "cloudinary"
+
+
 # Use Redis adapter to run Action Cable in production
 # gem "redis", ">= 4.0.1"
 
