@@ -27,9 +27,12 @@ Ensure you have the following installed on your machine:
 3.  **Install the required gems:** `bundle install` 
     
 4.  **Set up the database:** `rails db:create
-    rails db:migrate` 
-    
+    rails db:migrate`
 
+## .ENV
+1. OPEN_ACCESS_TOKEN="your token"
+2. CLOUDINARY_URL="your token"
+    
 ## Running the Application
 
 1.  **Start the Rails server:** `rails s` 
